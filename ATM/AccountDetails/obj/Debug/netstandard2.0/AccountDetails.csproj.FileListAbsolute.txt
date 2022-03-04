@@ -1,0 +1,9 @@
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\bin\Debug\netstandard2.0\AccountDetails.deps.json
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\bin\Debug\netstandard2.0\AccountDetails.dll
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\bin\Debug\netstandard2.0\AccountDetails.pdb
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\obj\Debug\netstandard2.0\AccountDetails.csprojAssemblyReference.cache
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\obj\Debug\netstandard2.0\AccountDetails.AssemblyInfoInputs.cache
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\obj\Debug\netstandard2.0\AccountDetails.AssemblyInfo.cs
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\obj\Debug\netstandard2.0\AccountDetails.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\obj\Debug\netstandard2.0\AccountDetails.dll
+C:\Users\desktop\Desktop\C#\ATM\AccountDetails\obj\Debug\netstandard2.0\AccountDetails.pdb
