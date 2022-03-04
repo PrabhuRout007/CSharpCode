@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0btsTGzMGMUEAjD9o9cIZAskWxkDXAv6s9mok5r90gA9XNTinNKzcgnDBy3JiqXriYThXvEAeB8PT8z71korA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desktop\\Desktop\\C#\\BankingSystem\\AccountManagement\\AccountManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desktop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\desktop\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

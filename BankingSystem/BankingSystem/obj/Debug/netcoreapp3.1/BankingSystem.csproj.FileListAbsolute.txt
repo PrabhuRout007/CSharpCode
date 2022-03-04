@@ -1,0 +1,16 @@
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.exe
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.dll
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\AccountManagement.dll
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\AccountManagement.pdb
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csprojAssemblyReference.cache
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CopyComplete
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.dll
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+C:\Users\desktop\Desktop\C#\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache

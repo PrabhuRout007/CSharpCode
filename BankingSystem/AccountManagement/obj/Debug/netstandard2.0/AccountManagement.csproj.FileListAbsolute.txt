@@ -1,0 +1,9 @@
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\bin\Debug\netstandard2.0\AccountManagement.deps.json
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\bin\Debug\netstandard2.0\AccountManagement.dll
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\bin\Debug\netstandard2.0\AccountManagement.pdb
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\obj\Debug\netstandard2.0\AccountManagement.csprojAssemblyReference.cache
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\obj\Debug\netstandard2.0\AccountManagement.AssemblyInfoInputs.cache
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\obj\Debug\netstandard2.0\AccountManagement.AssemblyInfo.cs
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\obj\Debug\netstandard2.0\AccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\obj\Debug\netstandard2.0\AccountManagement.dll
+C:\Users\desktop\Desktop\C#\BankingSystem\AccountManagement\obj\Debug\netstandard2.0\AccountManagement.pdb
